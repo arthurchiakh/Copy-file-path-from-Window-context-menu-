@@ -1,4 +1,4 @@
-# Copy-file-path-from-Window-context-menu-
+# Copy file path from Windows context menu
 
 <h1>How to use</h1>
 
@@ -7,15 +7,13 @@
 
 2.) You will see "Copy File Path" on the context menu when right click on the target file. Click on it.
 
-<img src="./img/screenshot1.png">
+![Image description](https://raw.githubusercontent.com/arthurchiakh/Copy-file-path-from-Windows-context-menu/master/img/Screenshot1.png)
 
 3.) <em>CTRL + v</em>
 
-<img src="./img/screenshot2.png">
+![Image description](https://raw.githubusercontent.com/arthurchiakh/Copy-file-path-from-Windows-context-menu/master/img/Screenshot2.png)
 
 </p>
-
-
 
 <h1>How to unisntall</h1>
 
